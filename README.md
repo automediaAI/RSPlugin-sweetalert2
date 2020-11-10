@@ -2,7 +2,7 @@
 React Studio plugin for very sweet alerts!
 
 # Instructions
-1. Download from [here](https://github.com/automediaAI/RSPlugin-QRCode/releases/download/v1.0/QRCode.plugin.zip)
+1. Download from [here](https://github.com/automediaAI/RSPlugin-sweetalert2/releases/download/v1.0/sweetalert2.plugin.zip)
 2. Access 'Components Plugin' folder from: React Studio Menu > Plugins > Show Plugin Manager > Show Plugins folder in Finder
 3. Unzip and paste .plugin file in this folder
 4. Click 'Reload Plugins' from Plugin Menu
@@ -39,4 +39,5 @@ This plugin is based on [sweetalert2](https://sweetalert2.github.io/) and [sweet
 
 Logo courtesy [PNGRepo](https://www.pngrepo.com/svg/54322/donut)
 
+# Plugin running in React Studio
 ![Plugin running in React Studio](https://raw.githubusercontent.com/automediaAI/RSPlugin-sweetalert2/main/screenshot.png)
